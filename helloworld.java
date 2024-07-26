@@ -1,1 +1,5 @@
-#include <stdio.h> int main(void) { printf("Hello World!\n"); return 0; }
+public class Helloworld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
